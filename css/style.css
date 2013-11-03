@@ -57,15 +57,17 @@ html,body{
 }
 .slide titulo{
 	position:absolute;
-	right:560px;
-	top:200px;
+	top: 40%; 
+	left: 45%; 
+	transform: translate(-50%, -50%);
 	font-size:50px;
 	color: #E3E3E3;
 }
 .slide subtitulo{
 	position:absolute;
-	right:440px;
-	top:275px;
+	top: 50%; 
+	left: 35%; 
+	transform: translate(-50%, -50%);
 	font-size:35px;
 	color: #E3DFE3;
 }
